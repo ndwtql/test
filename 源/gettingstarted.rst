@@ -6,6 +6,8 @@
 Getting Started
 *************************************************
 
+第五次修改测试文本，仅供测试原仓库多修改情况的pr
+
 This section contains all the information necessary to get the RoboCup Soccer
 Simulator source files and to install the software.  Since you are reading this
 manual, you probably already know where to find the RoboCup Soccer Simulator
